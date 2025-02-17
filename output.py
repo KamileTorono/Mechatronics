@@ -35,3 +35,6 @@ pi=3.141592654
 print(f"The value of pi is {pi}")
 print("The value o fpi is %.3f" %(pi))
 print("The value o fpi is %.2f" %(pi))
+
+#food = "chapati"
+#calories = 70

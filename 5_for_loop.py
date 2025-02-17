@@ -7,6 +7,7 @@
 #if statements
 #if else statements
 #switch case
+import math
 
 #for loop
 for x in range(1,6):

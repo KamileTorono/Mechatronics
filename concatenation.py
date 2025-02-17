@@ -22,6 +22,6 @@ print(f"My name is {fullname} i am {age} years old and my favorite colour is {fa
 name = input("Enter your name: ")
 print (f"Hello, {name}!")
 """
-
+#convertion of variables
 age = int(input("Enter your age: "))
 print(f"You will be  {age + 1} years old next year ")
