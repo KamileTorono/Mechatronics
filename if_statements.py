@@ -8,7 +8,7 @@
 # above 500000   25%
 
 #get user salary
-
+""""
 salary = float(input("Enter your current salary : "))
 
 new_salary = 0.0
@@ -30,3 +30,14 @@ else:
     new_salary = salary - tax
 
 print(f"Your Salary after tax is {new_salary}")
+"""
+
+education = int(input("Enter your years of study: "))
+if education >= 10:
+    print("Your salary is 500k USD")
+elif 6 <= education <= 9:
+    print("Your salary is 300k USD")
+elif 5 <= education <= 3:
+    print("Your salary is 200k USD")
+else:
+    print("Work hard your salary is below 100k USD")
